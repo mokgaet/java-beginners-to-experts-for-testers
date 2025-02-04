@@ -1,0 +1,24 @@
+
+--- Notes---
+
+    -Pre-
+ * Need a mysql connector jar
+
+Connection String = jdbc:mysql://localhost:3306/northwind_schema
+user=root
+password= 30102024MySQL# (only if your connection needs a connection)
+
+
+
+
+
+------------------------------------------------------------------
+Add a New Connection in MySQL Workbench
+    * Open MySQL Workbench.
+    * Click + to create a new connection.
+    * Connection Name: Any name (e.g., "Remote MySQL").
+    * Hostname: Enter the remote MySQL server IP.
+    * Port: Default is 3306.
+    * Username: Your MySQL username.
+    * Click Test Connection → Enter password → OK.
+
